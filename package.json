@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "generate:cards": "node scripts/generate-business-cards.mjs https://jjpsuppliersservices.com"
   },
   "dependencies": {
     "lucide-react": "^1.8.0",
@@ -18,6 +19,7 @@
     "@tailwindcss/postcss": "^4",
     "eslint": "^9",
     "eslint-config-next": "16.2.4",
+    "qrcode": "^1.5.4",
     "tailwindcss": "^4"
   }
 }

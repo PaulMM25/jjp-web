@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Jhonny Sánchez
+N:Sánchez;Jhonny;;;
+ORG:JJP Suppliers Services
+TITLE:Sales Director
+TEL;TYPE=CELL,VOICE:+34665843828
+EMAIL;TYPE=INTERNET,WORK:jhonny.sanchez@jjpsuppliersservices.com
+URL:https://jjpsuppliersservices.com/
+URL;TYPE=WORK:https://www.linkedin.com/in/jhonny-sanchez-madarnas-49728248/
+END:VCARD
